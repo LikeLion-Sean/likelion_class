@@ -33,3 +33,8 @@ plus.map((ele) => {
 });
 
 // map(ele,index,array)
+
+// sdfjkhljksdfljkdlskfjadklsjfadklsjfladjskf
+function multie(){
+    
+}
